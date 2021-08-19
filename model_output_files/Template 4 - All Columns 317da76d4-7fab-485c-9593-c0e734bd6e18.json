@@ -1,0 +1,38 @@
+{
+   "categorical_data_features": "\n                    categorical data features: no categorical data features processed from the input file due to missing \n                    donation information or only has one class to list categorical data features. in such cases, the donor file\n                    with the highest match rate is selected to calculate data features importance.\n                ",
+   "common_features": null,
+   "donation_columns": [
+      "state",
+      "my_fund2017",
+      "my_fund2019",
+      "my_fund2018",
+      "my_fund2020",
+      "my_fund2021"
+   ],
+   "donors_predicted": "49.0%",
+   "f1_score": 0.66,
+   "feature_count": 1000,
+   "feature_importance_labels": [
+      "company",
+      "gender"
+   ],
+   "feature_importance_values": [
+      0.5,
+      1.5
+   ],
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "DecisionTreeClassifier",
+         "SGDClassifier",
+         "RidgeClassifier"
+      ]
+   ],
+   "similar_categorical_columns": "['gender', 'company']",
+   "similar_filename": null,
+   "testing": "40",
+   "threshold": 0.4,
+   "total_data_sample": "200",
+   "training": "160",
+   "unique_features": 162
+}

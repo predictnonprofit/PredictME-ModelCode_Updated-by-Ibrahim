@@ -1,0 +1,31 @@
+{
+   "categorical_data_features": "\n            categorical data features: no categorical data features processed from the input file due to missing \n            donation information or only has one class to list categorical data features. in such cases, the donor file\n            with the highest match rate is selected to calculate data features importance.\n        ",
+   "donation_columns": [
+      "2019 Amount",
+      "2018 Amount",
+      "2017 Amount"
+   ],
+   "donors_predicted": "6.06%",
+   "f1_score": 1.0,
+   "feature_importance_labels": [
+      "Donor Name",
+      "CITY",
+      "Donated Nonprofit Name"
+   ],
+   "feature_importance_values": [
+      0.5,
+      1.5,
+      2.5
+   ],
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "RidgeClassifier",
+         "MultinomialNB",
+         "PassiveAggressiveClassifier"
+      ]
+   ],
+   "testing": "20",
+   "threshold": 0.6,
+   "training": "79"
+}

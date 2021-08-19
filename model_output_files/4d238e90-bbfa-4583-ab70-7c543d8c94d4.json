@@ -1,0 +1,17 @@
+{
+   "categorical_data_features": "\n            categorical data features: no categorical data features processed from the input file due to missing \n            donation information or only has one class to list categorical data features. in such cases, the donor file\n            with the highest match rate is selected to calculate data features importance.\n        ",
+   "donation_columns": "\n            donation columns: the input data is missing donation information (no target value) or only has one class \n            (class\") donor or class non-donor 'data imbalance') to list donation column(s). \n             in such cases, to execute the model\") successfully, data features from the input file are matched against \n             data features on the similar donor files stored in\") the predict me's server. donor file with the highest \n             match rate is selected and processed using natural language processing (nlp) method to maximize the model performance.\n        ",
+   "donors_predicted": "2.04%",
+   "f1_score": 1.0,
+   "feature_importance_values": "\n        Note: Feature Importance is based on the testing set of the similar donor file stored in Predict Me's server.\n        No categorical features processed from the input file for plotting a Feature Importance.\n        ",
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "RidgeClassifier",
+         "MultinomialNB",
+         "LinearSVC"
+      ]
+   ],
+   "percentage": 1.4492753623188406,
+   "threshold": 0.4
+}

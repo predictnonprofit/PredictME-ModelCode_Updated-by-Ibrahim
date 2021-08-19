@@ -1,0 +1,12 @@
+Donor ID,Donor First Name,Donor Last Name,Email,Gender,Phone,Employer,Job Title,Age,Home Address,City,State,Zip,Volunteered in the past,2019 Gift,2018 Gift,2017 Gift,2016 Gift,2015 Gift,2014 Gift,2013 Gift,2012 Gift,2011 Gift,Model Name: ensemble: Donor Probability Score,Model Name: ensemble: Donor Predicted Classification (>= Threshold Value)
+20,Noah,Maxwell,Noah_Maxwell7788@muall.tech,Male,8-045-485-7510,Metro Cash&Carry,HR Specialist,51,1727 Antrobus   Tunnel,Hayward,Arizona,70750,False,,,71252.75,0,0,95071.43,0,0,70673.67,0.26,0
+21,Stephanie,Allen,Stephanie_Allen6294@deavo.com,Female,0-666-848-6837,BuzzFeed,Pharmacist,53,6810 Angrave    Rue,Santa Ana,Montana,65540,True,,,61231.43,0,0,25194.53,0,0,16942.34,0.65,1
+22,Florence,Pope,Florence_Pope8576@zorer.org,Female,0-560-300-0621,Global Print,Fabricator,72,6648 Commercial  Rue,Berlin,Kentucky,84942,False,,,36374.46,0,0,95277.11,0,0,56253.34,0.17,0
+23,Joy,Ballard,Joy_Ballard1824@bungar.biz,Female,0-046-310-2602,Telekom,Dentist,45,7949 Linden Tunnel,Rochester,Illinois,77282,True,,,35953.51,0,0,83250.75,0,0,73884.29,0.47,1
+24,Mandy,Eaton,Mandy_Eaton143@womeona.net,Female,5-586-671-8571,Team Guard SRL,Biologist,44,9027 Oxford Walk,Escondido,California,20106,True,,,97253.53,0,0,74104.67,0,0,24192.47,0.66,1
+25,Davina,Boyle,Davina_Boyle1203@deons.tech,Female,1-357-273-8500,Team Guard SRL,Investment  Advisor,19,8292 Sherwood  Road,Kansas City,Nebraska,28377,True,,,34021.79,0,0,97476.68,0,0,88010.27,0.36,0
+26,Elise,Saunders,Elise_Saunders4549@bulaffy.com,Female,3-371-627-1732,Comodo,Project Manager,25,6649 Erindale Rue,Valetta,Wyoming,77158,True,,,78781.92,0,0,86178.76,0,0,33449.4,0.27,0
+27,Lily,Long,Lily_Long9483@zorer.org,Female,3-807-621-7830,Vodafone,HR Coordinator,72,9789 Boldero   Walk,Phoenix,Indiana,25823,False,,,28208.82,0,0,64204.62,0,0,73359.33,0.4,1
+28,Sabina,Grady,Sabina_Grady3196@iatim.tech,Female,5-237-646-6546,CarMax,Front Desk Coordinator,56,3465 Abbey   Alley,Cincinnati,Washington,23896,True,85951.86,95479.53,45831.92,0,0,39841.35,0,0,88245.4,0.5,1
+29,Lucas,Crawford,Lucas_Crawford6137@dionrab.com,Male,8-640-204-5568,Boeing,Steward,57,1919 Canon Way,Kansas City,Texas,82682,False,37786.08,67588.11,67350.49,0,0,55254.35,0,0,75138.65,0.19,0
+30,Erin,Drummond,Erin_Drummond4767@fuliss.net,Female,5-101-872-5257,Leadertech Consulting,Health Educator,28,1021 Cliffords  Walk,Springfield,Arkansas,11129,False,34217.37,76703.48,98017.81,0,0,32937.0,0,0,64833.79,0.35,0

@@ -1,0 +1,13 @@
+{
+   "donors_predicted": "51.02%",
+   "f1_score": 0.64,
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "DecisionTreeClassifier",
+         "BernoulliNB",
+         "SGDClassifier"
+      ]
+   ],
+   "threshold": 0.4
+}

@@ -1,0 +1,18 @@
+{
+   "categorical_data_features": [
+      "Gender"
+   ],
+   "donation_columns": [],
+   "donors_predicted": "100.0%",
+   "f1_score": 0.71,
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "SGDClassifier",
+         "LogisticRegression",
+         "RidgeClassifier"
+      ]
+   ],
+   "percentage": 8.49673202614379,
+   "threshold": 0.4
+}

@@ -1,0 +1,16 @@
+{
+   "categorical_data_features": [],
+   "donation_columns": [],
+   "donors_predicted": "34.69%",
+   "f1_score": 0.64,
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "DecisionTreeClassifier",
+         "RandomForestClassifier",
+         "BernoulliNB"
+      ]
+   ],
+   "percentage": 30.718954248366014,
+   "threshold": 0.4
+}

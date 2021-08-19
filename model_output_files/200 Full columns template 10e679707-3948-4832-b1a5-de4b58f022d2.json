@@ -1,0 +1,46 @@
+{
+   "categorical_data_features": [
+      "Gender"
+   ],
+   "donation_columns": [
+      "2017 Gift",
+      "2014 Gift",
+      "2013 Gift",
+      "2015 Gift"
+   ],
+   "donors_predicted": "30.15%",
+   "f1_score": 0.54,
+   "feature_count": 120,
+   "feature_importance_labels": [
+      "Donor First Name",
+      "Gender",
+      "City",
+      "Volunteered in the past",
+      "Age",
+      "Job Title",
+      "State",
+      "Employer"
+   ],
+   "feature_importance_values": [
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5,
+      6.5,
+      7.5
+   ],
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "RandomForestClassifier",
+         "RidgeClassifier",
+         "PassiveAggressiveClassifier"
+      ]
+   ],
+   "testing": "40",
+   "threshold": 0.45,
+   "training": "159",
+   "unique_features": 470
+}

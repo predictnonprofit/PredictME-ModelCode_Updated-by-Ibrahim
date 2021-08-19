@@ -1,0 +1,50 @@
+Donor ID,Donor First Name,Donor Last Name,Email,Gender,Phone,Employer,Job Title,Age,Home Address,City,State,Zip,Volunteered in the past,2019 Gift,2018 Gift,2017 Gift,2016 Gift,2015 Gift,2014 Gift,2013 Gift,2012 Gift,2011 Gift,Model Name: ensemble: Donor Probability Score,Model Name: ensemble: Donor Predicted Classification (>= Threshold Value)
+19,Peter,Nobbs,Peter_Nobbs8908@eirey.tech,Male,4-337-178-4438,Mars,Production Painter,43,8567 Jackson Grove,Lancaster,Massachussets,64943,False,,,29834.44,0,0,35785.59,0,0,35668.73,0.88,1
+20,Noah,Maxwell,Noah_Maxwell7788@muall.tech,Male,8-045-485-7510,Metro Cash&Carry,HR Specialist,51,1727 Antrobus   Tunnel,Hayward,Arizona,70750,False,,,71252.75,0,0,95071.43,0,0,70673.67,0.51,1
+21,Stephanie,Allen,Stephanie_Allen6294@deavo.com,Female,0-666-848-6837,BuzzFeed,Pharmacist,53,6810 Angrave    Rue,Santa Ana,Montana,65540,True,,,61231.43,0,0,25194.53,0,0,16942.34,0.84,1
+22,Florence,Pope,Florence_Pope8576@zorer.org,Female,0-560-300-0621,Global Print,Fabricator,72,6648 Commercial  Rue,Berlin,Kentucky,84942,False,,,36374.46,0,0,95277.11,0,0,56253.34,0.86,1
+23,Joy,Ballard,Joy_Ballard1824@bungar.biz,Female,0-046-310-2602,Telekom,Dentist,45,7949 Linden Tunnel,Rochester,Illinois,77282,True,,,35953.51,0,0,83250.75,0,0,73884.29,0.53,1
+24,Mandy,Eaton,Mandy_Eaton143@womeona.net,Female,5-586-671-8571,Team Guard SRL,Biologist,44,9027 Oxford Walk,Escondido,California,20106,True,,,97253.53,0,0,74104.67,0,0,24192.47,0.58,1
+25,Davina,Boyle,Davina_Boyle1203@deons.tech,Female,1-357-273-8500,Team Guard SRL,Investment  Advisor,19,8292 Sherwood  Road,Kansas City,Nebraska,28377,True,,,34021.79,0,0,97476.68,0,0,88010.27,0.51,1
+26,Elise,Saunders,Elise_Saunders4549@bulaffy.com,Female,3-371-627-1732,Comodo,Project Manager,25,6649 Erindale Rue,Valetta,Wyoming,77158,True,,,78781.92,0,0,86178.76,0,0,33449.4,0.49,1
+27,Lily,Long,Lily_Long9483@zorer.org,Female,3-807-621-7830,Vodafone,HR Coordinator,72,9789 Boldero   Walk,Phoenix,Indiana,25823,False,,,28208.82,0,0,64204.62,0,0,73359.33,0.86,1
+28,Sabina,Grady,Sabina_Grady3196@iatim.tech,Female,5-237-646-6546,CarMax,Front Desk Coordinator,56,3465 Abbey   Alley,Cincinnati,Washington,23896,True,85951.86,95479.53,45831.92,0,0,39841.35,0,0,88245.4,0.86,1
+29,Lucas,Crawford,Lucas_Crawford6137@dionrab.com,Male,8-640-204-5568,Boeing,Steward,57,1919 Canon Way,Kansas City,Texas,82682,False,37786.08,67588.11,67350.49,0,0,55254.35,0,0,75138.65,0.88,1
+30,Erin,Drummond,Erin_Drummond4767@fuliss.net,Female,5-101-872-5257,Leadertech Consulting,Health Educator,28,1021 Cliffords  Walk,Springfield,Arkansas,11129,False,34217.37,76703.48,98017.81,0,0,32937.0,0,0,64833.79,0.86,1
+31,Mason,Burge,Mason_Burge8612@qater.org,Male,6-872-630-6750,Comcast,Service Supervisor,73,9153 Carpenter Vale,Columbus,Montana,15406,False,8495.31,89913.07,1021.76,0,0,9767.33,0,0,14729.58,0.88,1
+32,Christine,Walsh,Christine_Walsh7317@ovock.tech,Female,0-426-427-3787,UPC,Biologist,35,7775 Caroline  Alley,Nashville,Hawaii,49017,True,34367.79,81385.0,55195.83,0,0,50349.07,0,0,95312.27,0.85,1
+33,Denny,Little,Denny_Little7363@vetan.org,Male,4-725-674-0147,Amazon.com,Investment  Advisor,45,3067 Baylis  Route,Glendale,Idaho,70685,False,88539.38,21519.64,84344.43,0,0,45669.75,0,0,67780.68,0.88,1
+34,Mabel,Ingham,Mabel_Ingham4870@elnee.tech,Female,3-860-318-5223,Team Guard SRL,Restaurant Manager,58,7349 King William  Pass,Oakland,Ohio,72730,False,40624.35,18868.55,72845.42,0,0,31883.15,0,0,30989.66,0.57,1
+35,Janelle,Poole,Janelle_Poole2598@deavo.com,Female,7-061-746-7138,Biolife Grup,Inspector,24,9630 Collingwood  Drive,Bakersfield,North Dakota,26246,False,15751.35,97890.96,9705.33,0,0,17781.12,0,0,34737.93,0.86,1
+36,Angelica,Foxley,Angelica_Foxley7104@sheye.org,Female,4-600-314-0705,DynCorp,Audiologist,30,9997 Buttonwood Tunnel,Arlington,Florida,91921,True,13011.78,79384.21,4429.81,0,0,43224.04,0,0,64819.59,0.84,1
+37,Aiden,Walsh,Aiden_Walsh3199@ubusive.com,Male,5-874-527-6648,21st Century Fox,Lecturer,72,3703 Abourne   Road,Milwaukee,Utah,36065,True,88535.39,43116.69,65687.87,0,0,29804.93,0,0,93043.19,0.85,1
+38,Matt,Drummond,Matt_Drummond5935@guentu.biz,Male,2-411-200-3121,Facebook,Restaurant Manager,20,4595 Coal Wharf  Vale,Columbus,Arizona,78768,True,17252.69,36637.72,81463.48,0,0,41880.57,0,0,17885.36,0.77,1
+39,Domenic,Wilde,Domenic_Wilde9828@gembat.biz,Male,1-414-421-3873,Telekom,Lecturer,21,7832 Queen Caroline   Tunnel,Otawa,California,72909,False,86596.07,13131.97,79035.29,0,0,97064.05,0,0,6090.06,0.87,1
+40,Louise,Gilmore,Louise_Gilmore9937@womeona.net,Female,5-815-874-3853,21st Century Fox,Lecturer,56,9727 Fairbairn  Alley,Jacksonville,Georgia,43457,False,35831.08,10171.39,18149.92,0,0,17954.61,0,0,33518.18,0.85,1
+41,Eduardo,Palmer,Eduardo_Palmer7131@vetan.org,Male,0-068-541-8458,Facebook,Design Engineer,43,8176 Erindale Boulevard,Venice,Michigan,56482,False,20063.03,60270.47,90900.61,0,0,16323.89,0,0,78790.25,0.86,1
+42,Rosie,Roscoe,Rosie_Roscoe2027@nickia.com,Female,4-061-410-6457,Apple Inc.,HR Coordinator,70,3211 Queen Crossroad,Oakland,Wisconsin,44712,False,4243.35,11809.88,8957.62,0,0,2161.74,0,0,50954.38,0.86,1
+43,Denis,Watson,Denis_Watson4031@hourpy.biz,Male,3-002-062-4315,AECOM,Biologist,72,4517 Linden Crossroad,Detroit,California,47810,False,76149.71,93524.06,45286.28,0,0,26826.68,0,0,90356.81,0.87,1
+44,George,Swan,George_Swan7405@womeona.net,Male,3-053-323-1485,CarMax,Software Engineer,45,1644 Queensberry  Pass,Rome,Massachussets,75362,False,87010.33,14292.26,2490.69,0,0,37920.75,0,0,9034.2,0.87,1
+45,Bryon,Dobson,Bryon_Dobson2040@naiker.biz,Male,4-463-777-8175,Zepter,Retail Trainee,26,952 Unwin  Rue,Boston,Oklahoma,32551,True,98740.97,62408.04,53694.29,0,0,81112.32,0,0,21480.83,0.86,1
+46,Anabelle,Cattell,Anabelle_Cattell6418@nanoff.biz,Female,2-682-624-0841,Carrefour,Lecturer,34,4011 Dunstans  Rue,Madison,Kentucky,82021,False,57454.59,54360.46,82992.11,0,0,98138.75,0,0,68467.28,0.85,1
+47,Ivy,Garcia,Ivy_Garcia6833@guentu.biz,Female,5-402-783-8611,Danone,Webmaster,37,9330 Clerkenwell Rue,Los Angeles,Virginia,96927,False,73983.93,4577.77,40504.83,0,0,86983.74,0,0,84309.28,0.87,1
+48,Elise,Edmonds,Elise_Edmonds1667@kideod.biz,Female,1-136-838-7565,Metro Cash&Carry,Loan Officer,56,8823 Bective  Lane,Chicago,Ohio,92095,False,12932.74,130.38,40911.19,0,0,57282.3,0,0,27759.67,0.83,1
+49,Sara,Allen,Sara_Allen6528@ubusive.com,Female,2-715-814-3168,Leadertech Consulting,Web Developer,28,311 Longleigh   Avenue,Valetta,Illinois,14134,True,98235.32,63921.66,26744.75,0,0,27731.24,0,0,36830.25,0.85,1
+50,Manuel,King,Manuel_King6923@mafthy.com,Male,4-546-622-8618,Boeing,Associate Professor,72,9070 Magnolia Pass,Rome,Utah,71440,True,58434.52,21599.36,22044.05,0,0,78448.15,0,0,5111.22,0.86,1
+51,John,Clifford,John_Clifford3605@atink.com,Male,0-868-848-1312,Telekom,Call Center Representative,69,8903 Sherlock   Vale,Lyon,Maine,70310,False,83685.17,25935.87,50229.32,0,0,94174.16,0,0,25801.06,0.85,1
+52,Denny,Dempsey,Denny_Dempsey9514@ovock.tech,Male,5-463-104-0701,Biolife Grup,CNC Operator,61,3958 Fairbairn  Rue,Lincoln,Vermont,76949,True,55801.98,63587.85,9573.05,0,0,90290.02,0,0,62661.75,0.86,1
+53,Chad,Gilbert,Chad_Gilbert8989@gembat.biz,Male,3-438-741-2855,Erickson,Design Engineer,65,9220 Lexington Drive,Tokyo,West Virginia,32634,False,94234.23,61595.18,91261.84,0,0,19058.65,0,0,93243.68,0.86,1
+54,Hank,Noach,Hank_Noach1065@liret.org,Male,8-304-128-3624,Danone,Machine Operator,72,7628 Chantry   Way,Norfolk,New Mexico,54542,True,66730.5,96436.15,29765.98,0,0,43516.18,0,0,97290.59,0.85,1
+55,Carl,Matthews,Carl_Matthews2337@typill.biz,Male,0-223-056-8016,Leadertech Consulting,Design Engineer,56,3003 Ensign   Route,Salt Lake City,Tennessee,56673,False,1728.16,35505.91,5434.1,0,0,83572.51,0,0,75857.75,0.85,1
+56,Ryan,Hall,Ryan_Hall8616@twace.org,Male,2-887-452-1631,Erickson,Mobile Developer,25,1876 Berriman  Hill,Pittsburgh,South Dakota,45189,True,745.98,11292.15,62544.28,0,0,77658.13,0,0,65614.5,0.85,1
+57,Hayden,Mcgregor,Hayden_Mcgregor5859@nimogy.biz,Male,0-683-016-1172,Leadertech Consulting,Clerk,24,9162 Victoria  Grove,Memphis,Ohio,42265,True,38579.04,81871.47,4516.18,0,0,24376.78,0,0,89307.85,0.85,1
+58,Ethan,Harvey,Ethan_Harvey2121@irrepsy.com,Male,3-158-053-3128,Vodafone,Baker,19,8805 Westcott  Vale,Lisbon,Virginia,96178,False,29090.67,64428.77,56719.53,0,0,64245.62,0,0,34287.29,0.87,1
+59,Sebastian,Cowan,Sebastian_Cowan9507@nanoff.biz,Male,8-002-784-1630,Metro Cash&Carry,HR Coordinator,54,5688 Fieldstone Route,Irving,North Dakota,54885,False,34677.79,17151.87,86720.59,0,0,39546.16,0,0,9781.96,0.85,1
+60,David,Callan,David_Callan1977@zorer.org,Male,7-046-876-5711,Zepter,Physician,27,3255 Angrave    Crossroad,Memphis,Florida,17056,False,71544.22,64441.13,43568.22,0,0,6221.94,0,0,69467.78,0.88,1
+61,Javier,Tait,Javier_Tait7809@muall.tech,Male,6-327-667-3180,ENEL,Dentist,56,7604 Andrews  Pass,Boston,Wisconsin,98644,False,27835.27,13654.1,5681.61,0,0,48105.18,0,0,85831.57,0.86,1
+62,Kimberly,Casey,Kimberly_Casey6841@eirey.tech,Female,0-223-625-3522,Team Guard SRL,Call Center Representative,73,6732 Coalecroft  Road,Oakland,New Mexico,89019,False,7819.45,18584.54,13395.48,0,0,27448.29,0,0,12471.17,0.79,1
+63,Daniel,Buckley,Daniel_Buckley3065@sveldo.biz,Male,8-401-023-5760,Amazon.com,Bookkeeper,58,3013 Ampton  Rue,Milwaukee,Oklahoma,84112,True,8578.2,28572.28,86301.6,0,0,26967.01,0,0,55321.65,0.86,1
+64,Skylar,Addley,Skylar_Addley652@atink.com,Female,6-345-432-8622,Demaco,Operator,29,6015 Union  Street,Reno,Arizona,59380,False,65479.51,13043.04,1019.22,0,0,46898.88,0,0,61651.94,0.86,1
+65,Josh,Hamilton,Josh_Hamilton4038@corti.com,Male,8-401-675-1424,Comcast,Electrician,55,2231 Elgood   Grove,Zurich,New Mexico,24945,False,25383.2,79600.81,26486.95,0,0,24115.71,0,0,30842.35,0.85,1
+66,Denis,Talbot,Denis_Talbot4838@eirey.tech,Male,6-585-883-0167,Global Print,Physician,71,3008 Linden Street,Scottsdale,Alaska,71182,False,57497.74,83267.13,10091.97,0,0,95136.49,0,0,78756.07,0.88,1
+67,Carla,Bailey,Carla_Bailey5278@extex.org,Female,0-514-655-5847,Facebook,Stockbroker,47,2012 Rosewood Street,Innsbruck,Oregon,62410,False,40765.76,84148.38,11107.73,0,0,17014.54,0,0,67440.72,0.87,1

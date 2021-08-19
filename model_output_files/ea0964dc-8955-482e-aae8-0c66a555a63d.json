@@ -1,0 +1,40 @@
+{
+   "categorical_data_features": [
+      "Gender"
+   ],
+   "donation_columns": [
+      "2019 Gift",
+      "2018 Gift",
+      "2014 Gift",
+      "2015 Gift"
+   ],
+   "donors_predicted": "100.0%",
+   "f1_score": 0.71,
+   "feature_importance_labels": [
+      "Age",
+      "State",
+      "Job Title",
+      "Volunteered in the past",
+      "Gender",
+      "Employer"
+   ],
+   "feature_importance_values": [
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5
+   ],
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "LogisticRegression",
+         "RidgeClassifier",
+         "MultinomialNB"
+      ]
+   ],
+   "testing": "Test set: subset of data to test the trained model.",
+   "threshold": 0.6,
+   "training": "Training set: subset of data to train a model."
+}

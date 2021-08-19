@@ -1,0 +1,101 @@
+id,name,email,phone,company,age,contribute2018,contribute2019,contribute2020,contribute2021,country,city,phone.1,pay_date,zip,Model Name: ensemble: Donor Probability Score,Model Name: ensemble: Donor Predicted Classification (>= Threshold Value)
+1,"Spencer, Eve W.",leo.elementum.sem@fringillaeuismod.net,1-818-690-0921,Facilisis Suspendisse Company,52,1621.96,4006.93,2643,5374,Holy See (Vatican City State),Richmond,16020701 8961,"Jun 22, 2021",68678,0.54,1
+2,"Mccoy, Tucker F.",ac@ametante.edu,1-636-620-1471,Quis Pede LLC,17,4248.79,7704.85,6209,1622,Anguilla,Sanzeno,16810925 0319,"Aug 4, 2022",V1K 3J3,0.55,1
+3,"Mcintosh, Hoyt R.",mi.eleifend.egestas@parturient.org,1-156-325-1480,Erat LLP,44,876.91,5206.25,1530,6053,Côte D'Ivoire (Ivory Coast),Palena,16220808 9082,"Apr 16, 2021",243952,0.9,1
+4,"Lindsey, Prescott N.",nonummy.ipsum.non@Nullatempor.edu,1-474-472-1371,Cursus Nunc Mauris Corporation,51,4544.21,9426.96,1247,5677,Burkina Faso,Paradise,16190317 6202,"Aug 1, 2022",424817,0.54,1
+5,"Baird, Stuart W.",non.egestas.a@Etiambibendum.ca,1-912-506-9933,Ultricies Foundation,96,3525.45,4724.31,7756,7173,French Polynesia,Staraya Kupavna,16190723 6887,"Dec 20, 2021",02832,0.58,1
+6,"Miles, Fleur V.",risus.Duis.a@Nullaegetmetus.edu,1-704-177-2140,Nec Metus Facilisis Associates,51,9064.49,6501.46,6291,2782,Sri Lanka,Alessandria,16880414 7299,"Jan 28, 2022",29842,0.54,1
+7,"Alford, Ava F.",nisl.Quisque@ridiculus.ca,1-456-918-5297,At Incorporated,51,2219.01,2332.78,521,4159,Moldova,Te Awamutu,16970503 4651,"Jan 21, 2022",98150,0.58,1
+8,"Leon, Alexa U.",sit@infelisNulla.co.uk,1-883-612-9517,Tellus Non Magna Limited,15,1254.89,9116.27,866,3713,Mongolia,Cheyenne,16520430 7796,"Sep 6, 2021",Z9318,0.54,1
+9,"Campos, Rebekah Q.",tincidunt.pede.ac@lacusUt.org,1-596-796-8105,Mauris Molestie Pharetra PC,64,3544.13,9866.96,1532,6923,Uruguay,Banff,16551207 7693,"Nov 2, 2021",54-468,0.42,1
+10,"Carney, Nichole Y.",nulla.Integer.vulputate@eusem.edu,1-253-533-0034,Vulputate Institute,21,8312.99,7498.48,1826,8875,Czech Republic,Santa Cesarea Terme,16051024 2209,"Apr 14, 2022",10650,0.57,1
+11,"Lynch, Matthew Y.",Duis.ac.arcu@liberoMorbi.edu,1-655-283-4443,Lacinia Sed Foundation,74,3730.26,5308.23,6682,6598,Suriname,Castelluccio Inferiore,16481222 0681,"Jan 10, 2021",9722 MQ,0.54,1
+12,"Norris, Phyllis T.",ullamcorper.viverra.Maecenas@egestasSed.org,1-918-865-4588,Quis Diam Pellentesque Consulting,9,5555.92,5288.61,2953,5453,Heard Island and Mcdonald Islands,Raymond,16310812 9119,"Jun 7, 2021",27983,0.54,1
+13,"Mckenzie, MacKenzie R.",pede.ultrices.a@mollisDuissit.co.uk,1-764-986-9405,Integer Mollis Integer LLP,73,9905.21,8970.34,7985,4919,Haiti,Bhakkar,16320116 4344,"Jan 31, 2021",22816,0.56,1
+14,"Smith, Brynn L.",arcu@eratinconsectetuer.org,1-112-605-3071,Mauris Foundation,24,990.97,8589.38,4301,6548,United States Minor Outlying Islands,Hyderabad,16690618 8468,"Dec 14, 2020",40016,0.57,1
+15,"Steele, Kasper P.",Phasellus.elit@nuncsedpede.org,1-426-952-6234,Metus Facilisis Lorem Limited,9,6398.08,6344.65,6339,2747,Paraguay,Poggiorsini,16081017 9127,"Jun 10, 2022",782596,0.54,1
+16,"Hudson, Gay F.",euismod@justoProin.net,1-494-801-8108,Scelerisque Lorem Ipsum Inc.,26,9451.8,9947.5,7296,5392,Costa Rica,Canmore,16471206 4049,"Apr 19, 2021",26827,0.54,1
+17,"Todd, Denise O.",posuere.at@luctusetultrices.com,1-545-917-1496,Dis Parturient Montes LLC,27,7201.96,8067.67,1242,2127,Swaziland,Ravensburg,16030701 9018,"Dec 19, 2020",63945,0.54,1
+18,"Cameron, Moana W.",natoque@sedsapien.co.uk,1-892-490-1580,Consequat Dolor Industries,21,9254.42,9641.42,9803,6318,Equatorial Guinea,Aberystwyth,16400520 4286,"Jan 11, 2022",29029,0.54,1
+19,"Jordan, Myles L.",mi.lacinia@lobortisrisusIn.co.uk,1-158-621-0092,Lorem Tristique Aliquet Associates,73,7295.72,8268.38,8396,7729,Namibia,Oudergem,16050327 3815,"Jul 29, 2021",10751,0.9,1
+20,"Patel, Carol B.",Ut@consequat.net,1-453-306-2870,Arcu Curabitur Ut Consulting,32,7722.04,8566.79,9031,7476,Italy,Hereford,16980629 4394,"Aug 3, 2022",271916,0.54,1
+21,"Diaz, Malik Y.",molestie.orci.tincidunt@ac.com,1-859-437-9386,Purus Maecenas Libero Inc.,20,4780.52,9197.02,7478,1608,Bouvet Island,Lebbeke,16960908 1444,"Mar 6, 2022",Z5014,0.54,1
+22,"Glenn, Montana Y.",interdum@pedeCum.edu,1-761-191-8407,Dignissim Lacus Limited,39,6776.39,7886.71,2432,9322,Cameroon,Sart-Eustache,16510323 1725,"May 29, 2021",7162 WW,0.54,1
+23,"Farley, Magee P.",ut.sem.Nulla@Duisatlacus.ca,1-158-805-1073,Vitae Associates,65,8473.33,9220.17,9591,5822,Australia,Warburg,16391016 1813,"Apr 25, 2022",3661,0.58,1
+24,"Roberts, Rajah U.",in.faucibus.orci@egetipsumSuspendisse.edu,1-240-767-2058,Venenatis A Ltd,13,5890.83,5967.73,5546,3310,Ethiopia,Cessnock,16660106 6563,"Mar 23, 2021",919825,0.54,1
+25,"Fernandez, Todd V.",sodales@egestas.org,1-653-466-9972,Sem Ut Dolor Corp.,13,3726.8,7118.06,5502,2591,Hungary,Birori,16390721 5143,"May 15, 2021",2451,0.54,1
+26,"Vinson, Emmanuel T.",amet@nunc.edu,1-787-379-3163,Est Vitae LLP,92,1814.32,7604.87,8505,9904,Cameroon,Saint-Pierre,16560706 6528,"Aug 22, 2021",77-899,0.54,1
+27,"Johnson, Eagan B.",quis@feliseget.co.uk,1-597-452-3394,Et Incorporated,49,8117.59,4533.65,2631,4110,San Marino,Aparecida de Goiânia,16730527 5153,"Nov 21, 2020",72352,0.53,1
+28,"Weeks, Cameron X.",bibendum.fermentum.metus@turpisegestasFusce.ca,1-962-809-4940,Metus Vivamus Consulting,92,1497.62,8721.33,5827,7548,United States Minor Outlying Islands,Villanova d'Albenga,16270323 7707,"Nov 19, 2021",36230,0.58,1
+29,"Conrad, Rowan E.",lectus.convallis@arcuVestibulumut.ca,1-832-679-7407,Etiam Bibendum Incorporated,46,3409.3,2099.07,4321,5459,French Guiana,Tierralta,16371214 9578,"Nov 26, 2020",560004,0.58,1
+30,"Black, Heather D.",Donec@dictumultriciesligula.ca,1-543-397-5063,Ipsum Primis In Ltd,50,3125.22,3672.48,4336,5805,Philippines,Valverde,16010424 3274,"Aug 12, 2021",48929-282,0.58,1
+31,"Nielsen, Daquan T.",ad.litora.torquent@arcu.org,1-327-692-3546,Lobortis Mauris Suspendisse Inc.,87,1766.12,5544.79,7722,8337,France,Mascalucia,16620813 5167,"Aug 4, 2022",464635,0.56,1
+32,"Andrews, Zorita Z.",lectus.pede.ultrices@massarutrummagna.edu,1-803-975-4084,Donec Foundation,64,1714.55,5669.76,3331,9142,Bulgaria,St. Pölten,16690513 2897,"Jun 24, 2021",470171,0.49,1
+33,"Cohen, Demetria O.",Aenean@Aliquam.net,1-244-970-3734,Sagittis LLC,4,9235.18,4510.61,567,5781,Sierra Leone,Cochamó,16030804 3587,"Mar 15, 2022",06-366,0.54,1
+34,"Gonzales, Halla N.",magna.Lorem.ipsum@odioPhasellus.org,1-136-361-6592,Id Libero Corporation,72,7198.65,5920.05,7694,4005,Kenya,Mazzano Romano,16240914 5329,"Jul 5, 2021",60215,0.54,1
+35,"Knowles, Philip Q.",Praesent.luctus.Curabitur@Quisquepurussapien.org,1-825-199-7909,Tempus Non Company,23,3787.85,2400.46,1651,1131,Ireland,Casacalenda,16700923 4035,"Oct 19, 2021",IA1X 5XR,0.55,1
+36,"Rose, Matthew O.",Etiam@ornareplaceratorci.ca,1-237-458-2310,Dolor Quam Elementum Inc.,34,2734.31,6548.56,1500,6880,Nauru,Stony Plain,16681222 0405,"Mar 25, 2022",675476,0.58,1
+37,"Lambert, Henry I.",magnis@sollicitudin.co.uk,1-960-371-1918,Eget Company,26,2998.27,4913.03,8569,1604,Tanzania,Rhyl,16590803 7509,"Feb 17, 2021",537768,0.54,1
+38,"Sharpe, Neil L.",sem.eget.massa@enim.ca,1-478-937-0993,Egestas Rhoncus Institute,15,4867.25,2477.92,2016,4858,Macao,Hattersheim am Main,16390310 0893,"Dec 20, 2021",44-431,0.58,1
+39,"Drake, Zahir I.",pede@lacusCras.co.uk,1-559-802-2360,Curabitur Consequat Corp.,46,9732.25,6370.45,6643,3322,"Korea, South",Chaudfontaine,16920920 7753,"Apr 19, 2021",055056,0.54,1
+40,"Rhodes, Xyla F.",Suspendisse.sagittis.Nullam@Donecelementum.com,1-361-117-5404,Blandit Viverra Donec Inc.,71,3891.33,6921.95,4044,4572,Togo,Lo Espejo,16880205 6930,"Jun 19, 2021",566290,0.54,1
+41,"Bond, Adrian C.",enim.Mauris.quis@egetmetusIn.ca,1-301-992-1930,Fringilla Cursus Purus PC,70,8092.06,2979.2,7006,3294,Myanmar,Tacoma,16820218 8176,"Jul 24, 2022",63536-994,0.58,1
+42,"Mooney, Kieran M.",nec.mauris.blandit@ipsumcursus.co.uk,1-428-773-1633,Mi LLC,95,806.81,8851.5,1168,4864,Sierra Leone,Issy-les-Moulineaux,16241205 3510,"Dec 4, 2021",61500,0.9,1
+43,"Massey, Seth V.",nunc.sed@tellusPhaselluselit.edu,1-855-581-8720,Aliquet Proin Velit Corporation,21,5730.72,6385.71,6856,9423,Seychelles,Belém,16900528 5870,"Sep 3, 2021",Z3261,0.54,1
+44,"Odom, Erich Y.",non@sagittis.ca,1-695-331-7911,Tortor Limited,60,3982.03,6414.16,9616,8722,Mozambique,Victoria,16140914 2492,"Sep 6, 2020",7129 ZI,0.58,1
+45,"Huffman, Bevis X.",at.pede.Cras@Aeneansedpede.edu,1-212-573-2396,Duis Mi Enim Corporation,36,7388.6,9715.99,8541,9970,Madagascar,Viernheim,16670201 5766,"Jul 28, 2022",47254,0.9,1
+46,"Orr, Kai Y.",Vivamus.euismod@dui.ca,1-740-955-2687,Malesuada Ltd,9,2567.49,3777.83,6066,6542,Switzerland,Perugia,16371013 2774,"Jul 10, 2022",1394,0.58,1
+47,"Hendrix, Arden T.",nec@dapibusgravida.org,1-245-801-1997,Id Risus Inc.,96,5582.1,8976.0,7005,3645,Cambodia,Davangere,16100413 9430,"Jul 21, 2021",38909-89899,0.54,1
+48,"Hopkins, Cole R.",nascetur.ridiculus@a.net,1-464-320-7635,Dui PC,72,2623.59,6085.68,7731,4946,Guyana,Concón,16350105 1886,"Sep 21, 2020",4775,0.53,1
+49,"Randolph, Vincent I.",augue@sit.com,1-498-299-7839,Sem Mollis LLC,44,9390.43,6789.63,8087,5601,Malawi,Ponoka,16610423 7133,"Sep 10, 2020",598590,0.56,1
+50,"Dickerson, Chadwick I.",augue.porttitor@porttitorerosnec.co.uk,1-677-111-4074,Euismod Urna Nullam Institute,21,1816.2,7850.8,5784,2840,Greenland,Comox,16170402 7877,"Nov 26, 2021",489655,0.54,1
+51,"Petersen, Emery N.",commodo@eratvelpede.org,1-831-616-3027,Neque Nullam Company,13,9926.19,4976.08,8218,6692,Togo,Sindelfingen,16040325 9062,"Aug 20, 2021",P72 6ZB,0.54,1
+52,"Boone, Lavinia O.",ultricies.adipiscing.enim@vitaemauris.ca,1-669-879-5963,Risus In Mi Institute,64,1541.58,8842.63,7237,5705,Iraq,Zaraysk,16440413 3268,"Mar 8, 2022",95732,0.55,1
+53,"Blanchard, Rosalyn R.",pellentesque.Sed.dictum@lorem.org,1-181-915-9325,Hendrerit Inc.,74,7401.78,2368.7,8279,2876,Bouvet Island,Retie,16181006 6785,"Jan 26, 2021",60856,0.54,1
+54,"Wolf, Keaton B.",et.magnis.dis@etmalesuada.com,1-872-530-3943,Neque Et Nunc Industries,72,6071.53,3374.86,3215,5333,Côte D'Ivoire (Ivory Coast),Vallenar,16200626 2170,"Feb 5, 2021",56012-45387,0.54,1
+55,"Barry, Brandon Y.",dui.semper@volutpat.com,1-801-444-4381,Ac Industries,36,5101.16,9384.37,3180,3835,"Virgin Islands, British",Fréjus,16640927 0037,"Nov 24, 2021",963903,0.57,1
+56,"Gray, Gloria Z.",nec.metus@nisl.edu,1-452-951-9445,Aliquam Consulting,74,6300.77,6354.31,7070,6563,Russian Federation,Arequipa,16420301 1764,"Oct 5, 2021",24635,0.56,1
+57,"Reilly, Sydnee F.",et.euismod@utpharetra.ca,1-417-702-6870,Auctor Ltd,56,7611.79,8132.37,4122,2347,Hungary,Didim,16890219 2890,"Dec 27, 2021",61254,0.58,1
+58,"Schneider, Malachi Q.",nisl.sem@blanditenimconsequat.net,1-814-740-8051,Arcu Sed Eu LLC,42,2652.37,2248.31,4436,5792,United Arab Emirates,Catacaos,16360506 3860,"Oct 29, 2020",168657,0.57,1
+59,"Benson, Clio C.",ridiculus@Maecenas.edu,1-348-653-9997,In Foundation,18,533.79,4861.94,9356,6890,Djibouti,Ferness,16200115 4877,"Jul 5, 2022",58049,0.53,1
+60,"Sullivan, Dante K.",orci.consectetuer@lectusconvallisest.net,1-477-813-7683,Feugiat Metus Associates,14,7040.34,9219.05,3085,4876,Cuba,Ashburton,16811202 1046,"Apr 12, 2022",19662,0.57,1
+61,"Caldwell, Derek M.",et.pede@nonegestasa.com,1-157-258-7704,Vulputate Associates,1,9060.56,2346.99,6298,7417,Chile,Arauco,16351223 2244,"May 12, 2022",19293,0.54,1
+62,"Robertson, Aurelia Y.",ultrices@Integertinciduntaliquam.com,1-340-474-0096,Mi Duis Associates,47,4811.23,9072.38,8537,8730,American Samoa,Bath,16930701 2667,"Aug 26, 2020",97-965,0.9,1
+63,"Chase, Alden F.",ultrices@Mauris.net,1-542-493-4452,A Felis Ullamcorper Inc.,45,1820.86,9057.59,9667,3396,Pitcairn Islands,Guadalupe,16410829 0299,"Jun 30, 2021",3939,0.55,1
+64,"Walker, Byron B.",vitae@morbitristique.net,1-477-857-4062,Ut Aliquam Iaculis Inc.,94,4441.82,8078.93,8958,1199,Heard Island and Mcdonald Islands,Vehari,16320829 1322,"Aug 19, 2020",RB8 9BC,0.42,1
+65,"Garza, Wanda V.",libero.Donec.consectetuer@metus.ca,1-180-600-1965,Porttitor LLC,24,5553.51,5574.03,3213,2670,Kenya,Çermik,16721122 3073,"Dec 2, 2021",5960 KZ,0.58,1
+66,"Mitchell, John X.",elit.pretium.et@aliquamiaculislacus.net,1-237-900-8913,Vulputate Industries,46,2804.55,3172.7,3789,2072,Trinidad and Tobago,Gary,16771125 7951,"Jan 23, 2022",7876,0.57,1
+67,"Montgomery, Kaye J.",Proin.vel.arcu@pedeblandit.co.uk,1-595-710-7353,Cursus PC,6,5733.39,6588.33,6090,9763,Costa Rica,Limelette,16300425 7881,"Jul 21, 2021",98036,0.54,1
+68,"Wall, Graham Y.",Nunc.ut@dolor.org,1-845-318-6004,Ultricies Sem Magna PC,59,5673.56,8911.67,655,7398,Sweden,Cerreto di Spoleto,16530203 6255,"Jan 24, 2022",8665,0.53,1
+69,"Stanley, Lani P.",Nunc.sed@lorem.co.uk,1-300-228-4998,Fermentum Fermentum Arcu LLC,57,9385.56,9413.94,7223,7589,Nicaragua,Cuenca,16280302 8402,"Jul 10, 2021",631305,0.54,1
+70,"Davis, Leigh R.",natoque.penatibus@etultricesposuere.com,1-769-843-4790,Massa Mauris Corporation,49,6925.83,5268.83,7446,7831,Guam,Shaki,16980822 3847,"Jan 5, 2021",44700,0.54,1
+71,"Garrett, Aiko A.",volutpat.nunc@dolordapibus.org,1-246-744-1422,Est Mollis Incorporated,71,1162.6,2329.69,1163,1802,Nepal,Canino,16870618 4572,"Aug 8, 2021",598356,0.54,1
+72,"Dennis, Thor O.",feugiat.non.lobortis@metusInlorem.co.uk,1-394-167-6155,Elit Pharetra Ut Ltd,15,5843.52,3042.25,5442,8107,Georgia,Ipís,16350323 3763,"Apr 29, 2021",4004,0.54,1
+73,"Fischer, Nigel Z.",convallis.erat.eget@pellentesque.ca,1-802-156-2559,Elit Pretium Et Ltd,32,9363.47,4849.47,5917,7761,"Palestine, State of",Lampertheim,16901027 4380,"Oct 28, 2021",2959,0.58,1
+74,"Hebert, Rafael B.",tristique.pellentesque@nonenim.org,1-933-690-0786,Ullamcorper Duis At Corporation,66,4100.54,8210.64,9435,6922,Guadeloupe,Peralillo,16990529 8841,"Jun 3, 2022",2021 IA,0.51,1
+75,"Carney, Anika J.",Mauris.eu.turpis@vel.net,1-308-367-6771,Ipsum Porta Corp.,70,3500.01,6920.78,3390,5506,Viet Nam,Sioux City,16360829 8109,"Jul 7, 2021",58515,0.54,1
+76,"Estrada, Aileen A.",non.cursus.non@malesuadamalesuada.com,1-542-150-9467,Enim Industries,55,674.41,9277.76,1047,2874,Zambia,Vaux-sur-Sure,16601212 0868,"Dec 3, 2021",778410,0.57,1
+77,"Bates, Yoshi Z.",volutpat@sitametconsectetuer.ca,1-936-871-8083,Tortor Nunc Limited,50,4798.54,3838.36,3425,6199,Cameroon,Yurzhnouralsk,16550204 1287,"Jul 8, 2022",25202,0.58,1
+78,"Stark, Jillian S.",lacus.Ut.nec@cursus.org,1-625-194-4678,Ante Foundation,7,7352.58,2054.84,3402,1489,Montserrat,Korbach,16130102 1927,"Oct 28, 2020",362709,0.57,1
+79,"Nelson, Felicia T.",Integer.aliquam.adipiscing@laoreetposuereenim.net,1-822-856-9024,Nunc Sollicitudin Inc.,47,7031.67,5739.79,6287,3390,United States,İskenderun,16480706 8533,"Nov 20, 2021",50718,0.54,1
+80,"Wolfe, Alexis B.",Donec@Mauriseuturpis.ca,1-851-336-2199,Velit Eget Laoreet Ltd,45,8381.99,7710.35,7305,3464,Rwanda,St. Neots,16930906 2132,"Feb 7, 2021",98400,0.58,1
+81,"Duffy, Hiroko L.",vel.mauris.Integer@scelerisqueduiSuspendisse.com,1-383-717-5602,Nulla Donec Institute,60,476.35,6979.0,520,8293,Saint Kitts and Nevis,Monmouth,16040903 7165,"May 29, 2022",5040,0.56,1
+82,"Cohen, Quinn N.",pretium.aliquet.metus@amet.edu,1-965-229-7352,Nonummy Ac Company,53,1985.12,2895.13,7147,1551,Croatia,Bonnyville Municipal District,16940615 9062,"Sep 19, 2020",595672,0.54,1
+83,"Donaldson, Donovan Q.",nec.urna@sem.co.uk,1-356-538-6454,Ultrices Ltd,98,6356.4,2962.4,2731,7711,Namibia,Marke,16780306 6765,"Dec 30, 2021",1538,0.54,1
+84,"Mason, Kareem E.",cursus@a.co.uk,1-538-808-7633,Et Malesuada Fames Company,30,7506.37,5219.29,9274,6629,Algeria,Telfs,16270409 8256,"Feb 10, 2022",68887,0.54,1
+85,"Rivas, Nora Q.",nisi.nibh.lacinia@malesuadaid.com,1-449-316-1949,Dignissim Institute,31,500.57,9005.23,8459,7527,Malta,Fort Good Hope,16541202 6345,"May 18, 2021",78044,0.56,1
+86,"Charles, Arthur R.",ac@placerateget.ca,1-673-304-9917,Nunc Associates,66,8367.52,7637.36,1373,8665,Czech Republic,Merdorp,16531213 0700,"Apr 3, 2022",5292,0.58,1
+87,"Kidd, Anne M.",orci.adipiscing@massanonante.net,1-375-210-1718,Auctor Corporation,12,9992.45,4461.8,4839,1631,Christmas Island,Glabais,16001023 8202,"Jan 5, 2022",1429,0.54,1
+88,"Wynn, Roary G.",nec.mauris.blandit@Vivamusnisi.org,1-879-985-1593,Nullam Enim Sed Incorporated,22,4861.14,7381.9,9037,7272,Nigeria,Lebach,16460303 7427,"Jun 5, 2021",79500-755,0.57,1
+89,"Mckee, Hyatt Q.",diam.lorem.auctor@sedsemegestas.co.uk,1-696-574-4752,Odio Semper Cursus LLC,57,5950.17,2626.71,8502,1627,Croatia,Keswick,16950205 3300,"Sep 14, 2021",4940,0.57,1
+90,"Cunningham, Tate W.",a@commodoauctorvelit.com,1-429-256-3918,Pede Ultrices A LLP,76,3618.49,9034.18,3948,2245,"Korea, South",Alkmaar,16730625 3381,"May 7, 2021",E4J 9K1,0.54,1
+91,"Daniel, Ryder I.",bibendum.ullamcorper@placerat.co.uk,1-237-347-8149,Diam Sed Limited,70,4495.2,8841.22,1081,6270,Georgia,Holywell,16220626 1451,"Jul 7, 2022",9971,0.54,1
+92,"Fuller, Vance S.",fermentum.metus.Aenean@necdiamDuis.com,1-347-426-8805,Magna A PC,71,3526.13,3461.27,7161,3368,Faroe Islands,Ipswich,16200121 3913,"Jun 11, 2021",663100,0.54,1
+93,"Roberts, Kathleen A.",velit@suscipitnonummyFusce.ca,1-674-565-9850,A Corp.,49,2450.82,2544.16,7598,6685,Belgium,Stonewall,16250229 2770,"Feb 4, 2021",03832,0.58,1
+94,"Thornton, Anika U.",malesuada.vel.venenatis@massaQuisque.net,1-375-824-1656,Elit Fermentum Company,58,9839.29,6728.72,3132,3695,Armenia,Woodstock,16010526 5037,"Jul 25, 2021",270152,0.57,1
+95,"Keller, Lynn F.",nonummy.ultricies.ornare@luctusfelispurus.co.uk,1-710-612-5283,Gravida Sit Amet Corp.,43,5014.7,2851.45,7047,7281,Venezuela,Eisden,16881004 7160,"Nov 9, 2021",TC7 5RI,0.54,1
+96,"Wade, Flynn R.",tempor@quam.ca,1-258-256-6558,Enim Ltd,99,9561.44,8900.3,7823,6434,Finland,Belmonte del Sannio,16581127 8679,"Dec 28, 2021",40005,0.58,1
+97,"Mccoy, Bryar R.",risus.Quisque@vitaeeratvel.org,1-683-963-2416,In Industries,57,6841.37,4673.31,3212,4106,Spain,Pointe-Claire,16330115 3601,"Mar 23, 2021",52864,0.56,1
+98,"Hayes, Acton L.",tristique.neque.venenatis@risus.com,1-353-937-1740,Ac Fermentum Associates,4,2039.28,9358.02,8444,6583,Syria,Athus,16240108 2058,"Mar 24, 2022",71804,0.54,1
+99,"Knight, Lilah F.",imperdiet.erat@nibhdolor.co.uk,1-562-571-7741,Eu Odio Tristique Corp.,79,2067.53,8923.85,6486,7562,South Africa,Malkajgiri,16730417 6956,"Apr 10, 2021",9941 PI,0.55,1
+100,"Harrison, Bertha T.",metus.In.lorem@nonummyFusce.com,1-253-746-6319,Nisi Cum Corp.,16,9580.02,3702.21,8770,8666,Bolivia,Wilmington,16380310 3195,"May 1, 2021",244379,0.54,1

@@ -1,0 +1,28 @@
+{
+   "categorical_data_features": [
+      "Gender",
+      "Employer",
+      "Job Title",
+      "Age",
+      "State",
+      "Volunteered in the past"
+   ],
+   "donation_columns": [
+      "2019 Gift",
+      "2017 Gift",
+      "2018 Gift"
+   ],
+   "donors_predicted": "95.92%",
+   "f1_score": 0.71,
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "SGDClassifier",
+         "LogisticRegression",
+         "RidgeClassifier"
+      ]
+   ],
+   "testing": "10",
+   "threshold": 0.6,
+   "training": "39"
+}

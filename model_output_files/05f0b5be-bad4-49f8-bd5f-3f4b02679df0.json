@@ -1,0 +1,45 @@
+{
+   "categorical_data_features": [
+      "Gender",
+      "Employer",
+      "Job Title",
+      "Age",
+      "State",
+      "Volunteered in the past"
+   ],
+   "donation_columns": [
+      "2018 Gift",
+      "2019 Gift",
+      "2017 Gift",
+      "2016 Gift"
+   ],
+   "donors_predicted": "85.71%",
+   "f1_score": 0.71,
+   "feature_importance_labels": [
+      "Gender",
+      "Employer",
+      "Job Title",
+      "Age",
+      "State",
+      "Volunteered in the past"
+   ],
+   "feature_importance_values": [
+      6.970228965333983,
+      14.221461985586329,
+      15.007858944749415,
+      15.478692966506681,
+      18.041090443761426,
+      30.280666694062162
+   ],
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "SGDClassifier",
+         "LogisticRegression",
+         "RidgeClassifier"
+      ]
+   ],
+   "testing": "10",
+   "threshold": 0.6,
+   "training": "39"
+}

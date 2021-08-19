@@ -1,0 +1,51 @@
+id,first_name,last_name,email,gender,country,city,zip,phone,age,grant2018,grant2019,grant2020,grant2021,ip_address,Model Name: ensemble: Donor Probability Score,Model Name: ensemble: Donor Predicted Classification (>= Threshold Value)
+1,Dorette,Campione,dcampione0@a8.net,Genderqueer,Malta,Saint John,ZTN,741-121-3223,21,61543.02,21477.78,62415.96,34588.14,113.164.138.77,0.24,0
+2,Noam,Jahnisch,njahnisch1@unesco.org,Non-binary,China,Dongsheng,,116-589-1617,40,18603.86,807.85,26059.09,41311.18,136.129.5.252,0.36,0
+3,Jackquelin,Fadian,jfadian2@gnu.org,Genderqueer,Ukraine,Kiev,,706-300-7392,8,32250.91,15173.8,95029.69,77181.72,77.48.247.229,0.07,0
+4,Guenevere,Emmanuel,gemmanuel3@yahoo.co.jp,Female,Venezuela,El Cafetal,,238-565-8766,99,49446.85,29100.47,2774.65,67041.21,178.109.134.222,0.42,1
+5,Nelia,Noon,nnoon4@oracle.com,Bigender,Macedonia,Beranci,7512,862-707-7154,88,77336.12,90387.19,67269.55,19090.04,29.147.152.219,0.27,0
+6,Shannen,Mounce,smounce5@ucsd.edu,Polygender,China,Changle,,880-853-2557,10,37245.24,57272.37,20381.47,62693.83,167.75.13.81,0.4,1
+7,Carmine,Gascoyne,cgascoyne6@addtoany.com,Genderfluid,China,Anding,,450-104-1409,35,86756.46,75995.43,99953.54,26758.69,204.42.206.106,0.22,0
+8,Ermengarde,Dovydenas,edovydenas7@privacy.gov.au,Genderqueer,China,Luoxi,,637-616-1849,93,92915.85,66522.7,59872.97,36592.77,54.5.244.202,0.06,0
+9,Freddy,MacGaughy,fmacgaughy8@tripod.com,Polygender,Italy,Trieste,34129,461-842-6258,14,87550.25,6235.12,73122.1,33213.23,29.141.33.125,0.39,0
+10,Claudelle,Whitley,cwhitley9@xrea.com,Bigender,Japan,Hino,919-0222,909-392-5791,50,48824.78,35924.09,30243.99,20954.66,35.180.150.56,0.16,0
+11,Arnoldo,Aggett,aaggetta@drupal.org,Genderfluid,France,Saint-Malo,35409 CEDEX,441-413-6096,39,42480.16,82170.05,71114.74,41320.67,105.129.53.43,0.53,1
+12,Ardelis,Sjostrom,asjostromb@woothemes.com,Agender,United States,Hartford,06152,860-351-5780,21,29256.09,1488.37,70649.27,33285.79,182.221.59.186,0.4,1
+13,Barde,Antic,banticc@amazon.co.jp,Female,Indonesia,Sitularang Landeuh,,255-444-5369,2,68966.97,85828.26,51271.68,92266.86,160.25.42.69,0.16,0
+14,Demetri,Stearndale,dstearndaled@canalblog.com,Female,New Zealand,Brooklyn,6443,221-797-4567,64,35192.89,10540.82,20873.93,71861.1,100.39.25.113,0.33,0
+15,Cherise,Wilne,cwilnee@skype.com,Male,Libya,Darnah,,630-314-2591,73,33505.56,85375.18,30621.03,34503.36,142.141.229.80,0.28,0
+16,Addy,Lamort,alamortf@si.edu,Male,China,Pendiqing,,745-380-0472,98,79863.46,54412.26,60344.57,69284.04,79.89.45.242,0.47,1
+17,Myron,Buse,mbuseg@ucsd.edu,Male,Philippines,Dulangan,4113,560-147-8088,46,19501.33,796.25,86597.59,72729.37,100.13.16.158,0.46,1
+18,Guy,Sehorsch,gsehorschh@omniture.com,Agender,Bangladesh,Bherāmāra,7042,450-156-9085,80,36268.87,71478.67,10830.06,10678.32,45.212.178.79,0.07,0
+19,Barbabas,Tillman,btillmani@opera.com,Genderfluid,Philippines,Maluko,9800,130-321-3962,16,92362.19,90126.8,11301.1,87721.15,174.104.218.80,0.31,0
+20,Hagan,Shelf,hshelfj@macromedia.com,Bigender,Poland,Włocławek,87-822,146-650-1145,7,33279.48,15284.18,88403.97,80995.28,34.69.89.238,0.18,0
+21,Cherilynn,Blackford,cblackfordk@ning.com,Genderqueer,China,Guancheng,,295-904-7523,2,5611.67,99893.7,47844.73,18601.98,148.27.70.51,0.33,0
+22,Lolly,Ruffy,lruffyl@wired.com,Polygender,France,Bourges,18035 CEDEX,434-947-0681,50,92388.32,48709.66,49565.1,57063.95,44.16.230.117,0.11,0
+23,Pincus,Yeude,pyeudem@theguardian.com,Bigender,France,Rennes,35704 CEDEX 7,260-412-7191,89,67224.68,44847.16,23546.1,70386.29,24.108.198.254,0.59,1
+24,Kevon,Burling,kburlingn@hhs.gov,Female,China,Pingxiang,,832-296-8451,65,92295.65,78654.27,72061.7,22149.66,8.125.57.79,0.16,0
+25,Halley,Missington,hmissingtono@sakura.ne.jp,Agender,Brazil,Itanhaém,11740-000,262-985-9137,90,88542.34,57271.82,58698.5,8113.6,156.119.240.150,0.13,0
+26,Kay,Sarsfield,ksarsfieldp@cloudflare.com,Agender,Ukraine,Kostyantynivka,,556-558-3442,49,31947.89,42117.07,39966.08,6760.98,136.22.47.242,0.34,0
+27,Teodora,Chezier,tchezierq@businessweek.com,Bigender,China,Yidu,,938-716-2642,43,52333.72,87240.66,56560.17,31471.14,206.34.242.74,0.21,0
+28,Gilberta,Yakobowitch,gyakobowitchr@blogs.com,Male,Malaysia,Pulau Pinang,10662,951-172-6883,43,41181.08,16368.43,99230.61,7313.8,57.141.191.163,0.15,0
+29,Berenice,Mehmet,bmehmets@shareasale.com,Genderfluid,China,Yao’an,,160-426-8229,46,14265.22,996.67,76427.31,50696.26,72.222.232.26,0.24,0
+30,Arielle,Bishopp,abishoppt@hhs.gov,Polygender,China,Bahe,,810-430-5878,57,34133.86,34250.93,16300.79,9602.15,36.194.40.61,0.53,1
+31,Ermentrude,Cunnah,ecunnahu@tamu.edu,Bigender,Palestinian Territory,Quşrah,,898-258-9704,97,18058.16,55780.95,65667.6,27571.65,242.161.146.191,0.59,1
+32,Vivyanne,Joslin,vjoslinv@amazon.com,Male,Bangladesh,Hājīganj,3832,967-561-7225,94,20747.24,13344.03,50511.06,88848.04,128.180.231.69,0.1,0
+33,Shadow,Crenage,screnagew@java.com,Bigender,Poland,Sobienie Jeziory,08-443,844-528-5755,27,56276.88,40573.74,47792.32,54949.51,74.128.138.89,0.34,0
+34,Emelina,Bygate,ebygatex@gnu.org,Female,China,Zhonghechang,,446-403-3693,75,45360.73,55073.58,933.99,55894.88,175.171.22.114,0.11,0
+35,Demetria,Poyner,dpoynery@answers.com,Genderqueer,Egypt,Samālūţ,,244-128-7947,2,39532.07,2918.1,75802.73,61431.82,112.115.85.115,0.11,0
+36,Etan,Hamel,ehamelz@cdbaby.com,Male,China,Zhangpu,,656-921-5222,17,1635.7,96246.16,20003.91,80282.07,48.139.57.51,0.4,1
+37,Sigismond,McCaughan,smccaughan10@wiley.com,Polygender,China,Zhonghualu,,776-251-5356,46,52155.63,2609.99,17081.11,12269.42,50.17.220.238,0.31,0
+38,Faulkner,Dancy,fdancy11@a8.net,Genderfluid,Poland,Stryszawa,34-205,794-353-9968,3,79748.92,56809.92,67417.63,58527.31,138.139.101.121,0.25,0
+39,Samaria,Docket,sdocket12@networksolutions.com,Bigender,Philippines,Quezon,8715,372-518-1307,88,72519.5,84952.19,26425.56,83673.37,231.1.100.60,0.44,1
+40,Laetitia,Kollaschek,lkollaschek13@linkedin.com,Non-binary,Colombia,San Carlos,232517,935-134-6197,51,32497.54,19721.23,97308.04,79623.13,3.86.74.248,0.58,1
+41,Jemmie,Grouer,jgrouer14@state.tx.us,Bigender,Malaysia,Kuala Lumpur,55928,371-352-5195,40,53643.8,36098.25,54216.75,97478.34,238.87.159.8,0.45,1
+42,Tisha,Davydychev,tdavydychev15@xrea.com,Genderqueer,Costa Rica,Guadalupe,10801,609-227-3275,77,23846.4,40708.91,2138.41,46343.83,63.70.190.125,0.37,0
+43,Oriana,Hriinchenko,ohriinchenko16@fastcompany.com,Male,China,Nanjie,,583-519-2944,26,39984.24,44877.25,10946.28,72431.7,159.255.208.26,0.18,0
+44,Aigneis,Pasterfield,apasterfield17@europa.eu,Non-binary,China,Jiulong,,381-681-0583,92,67890.09,66979.02,65338.77,28278.88,101.187.23.242,0.16,0
+45,Tawsha,Whapple,twhapple18@shutterfly.com,Male,China,Gutian,,837-194-9408,67,47255.86,83231.04,41445.67,5301.33,166.192.54.132,0.21,0
+46,Shepperd,Lesly,slesly19@chronoengine.com,Male,Poland,Małdyty,14-330,384-133-7613,96,78252.86,93962.48,69868.25,68554.81,43.87.79.100,0.18,0
+47,Tom,Karle,tkarle1a@cloudflare.com,Female,China,Quzi,,851-385-2172,69,50938.94,78315.29,64472.09,87952.93,185.192.202.39,0.34,0
+48,Cathyleen,Lackeye,clackeye1b@paginegialle.it,Genderfluid,Indonesia,Siso,,428-660-6037,69,2435.94,5967.83,92926.81,37689.27,136.178.49.159,0.23,0
+49,Filippo,Dewire,fdewire1c@howstuffworks.com,Male,Colombia,Arauquita,816019,593-367-1255,79,36566.62,20077.78,28081.67,50051.86,128.87.72.208,0.18,0
+50,Laurene,Farnan,lfarnan1d@psu.edu,Male,China,Hougong,,781-153-2068,63,76562.47,36123.18,53724.28,21954.65,102.102.208.234,0.29,0

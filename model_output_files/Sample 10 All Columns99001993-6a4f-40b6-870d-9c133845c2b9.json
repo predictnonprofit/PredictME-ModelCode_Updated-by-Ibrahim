@@ -1,0 +1,48 @@
+{
+   "categorical_data_features": [
+      "Gender",
+      "Manager"
+   ],
+   "common_features": null,
+   "donation_columns": [
+      "FY 17 Giving",
+      "FY 16 Giving",
+      "FY 15 Giving",
+      "FY 14 Giving",
+      "FY 13 Giving"
+   ],
+   "donors_predicted": "36.33%",
+   "f1_score": 0.58,
+   "feature_count": 1000,
+   "feature_importance_labels": [
+      "Gender",
+      "Age Bin",
+      "Name",
+      "Affiliation",
+      "DonorCode",
+      "Manager"
+   ],
+   "feature_importance_values": [
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5
+   ],
+   "model_name": [
+      "Ensemble Method (Top 3 best fit classifiers)",
+      [
+         "MultinomialNB",
+         "DecisionTreeClassifier",
+         "LogisticRegression"
+      ]
+   ],
+   "similar_categorical_columns": "['Name', 'Age Bin', 'Gender', 'Affiliation', 'DonorCode', 'Manager']",
+   "similar_filename": null,
+   "testing": "60",
+   "threshold": 0.5,
+   "total_data_sample": "300",
+   "training": "240",
+   "unique_features": 156
+}
