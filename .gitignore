@@ -283,51 +283,29 @@ fabric.properties
 *.msg
 *.pages
 *.rtf
-notes.txt
-js.backup
-member_accounts.txt
-heroku_vars.txt
-vars.sh
 bugs.txt
 bugs.md
-changes.txt
-custom_requirements.txt
 *.wpd
 *.wps
 *.sql
-db.zip
 TESTING.py
 data_handler/PM_Model/_DATA
 *.rtl.css
 packages_dependencies.txt
 .pydevproject.bak
 .tern-project
-data_handler/PM_Model/PdfReport/*.pdf
-data_handler/PM_Model/prediction/*.csv
-media/crash_reports/
-data_handler/PM_Model/prediction/*.csv
-media/data/*.csv
-media/data/*.xlsx
-media/data/*.xls
-media/data/base/*.csv
-media/data/base/*.xlsx
-media/data/base/*.xls
-members_accounts.rst
+PdfReport/*.pdf
+prediction/*.csv
 
 ### exclude everything ###
-data_handler/PM_Model/model_output_files/*.json
+model_output_files/*.json
 
 ### exception to the rule ###
-!data_handler/PM_Model/model_output_files/.gitkeep
+model_output_files/.gitkeep
 
 
 ### exclude all test files ###
 tests/
-
-### Fixtures files ###
-data_handler/fixtures/
-
-default_permissions.txt
 
 
 ### VisualStudioCode ###
@@ -340,19 +318,6 @@ default_permissions.txt
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
-
-
-# predict_me/logs/errors.log
-# predict_me/logs/info.log
-static_files_changes.txt
-stripe_cards_numbers.txt
-static_files_changes.txt
-jsconfig.json
-db.sqlite3.backup
-client_secret.json
-celerybeat-schedule.bak
-celerybeat-schedule.dat
-celerybeat-schedule.dir
 
 
 ############ Python Gitignore ############
