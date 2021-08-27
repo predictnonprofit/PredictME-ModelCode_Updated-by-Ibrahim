@@ -103,6 +103,7 @@ def remove_rows_containg_all_null_values(df):
 def read_input_file(file_path):
     file_name = file_path.split('/')[-1]
     extension = file_name.split(".")[-1]
+    cprint(file_name, 'green')
     if extension == "csv":
         return pd.read_csv(file_path, encoding="ISO-8859-1")
     elif (extension == "xlsx") | (extension == "xls"):
@@ -1366,7 +1367,7 @@ def run_model(data_file_path, donation_cols, text_cols, send_obj):
         # categorical_index
         model_f1_score, classification_full_pred, classification_full_pred_prob, feature_importance_dict, roc_fpr, \
         roc_tpr, roc_auc, y_test_dict, y_pred_dict, top3_models = model_selection(X_train, y_similar, X_pred,
-                                                                                  donation_columns, df_info.columns[0:-1],
+                                                                                  donation_columns, categorical_index,
                                                                                   donor_df,
                                                                                   no_donations_columns,
                                                                                   skewed_target_value,
